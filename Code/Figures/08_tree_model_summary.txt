@@ -1,0 +1,13 @@
+Decision Tree Model Summary
+
+  <a href="matlab: helpPopup ClassificationTree">ClassificationTree</a>
+             ResponseName: 'Y'
+    CategoricalPredictors: []
+               ClassNames: [No    Yes]
+           ScoreTransform: 'none'
+          NumObservations: 5626
+
+
+  <a href="matlab: properties('ClassificationTree')">Properties</a>, <a href="matlab: methods('ClassificationTree')">Methods</a>
+
+
